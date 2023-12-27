@@ -1,2 +1,2 @@
 # Rest-Api-
-building a rest Api uding express and postgress 
+building a rest Api using express and postgress 
